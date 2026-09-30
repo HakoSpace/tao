@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.37.2]
+
+- [`2d918a69`](https://github.com/tauri-apps/tao/commit/2d918a69364832c140ee0f1df1893143112c2dbc) ([#1352](https://github.com/tauri-apps/tao/pull/1352) by [@Legend-Master](https://github.com/tauri-apps/tao/../../Legend-Master)) On Windows, delay unmaximizing the window if it's hidden to avoid it flashing briefly.
+
 ## [0.37.1]
 
 - [`365089b6`](https://github.com/tauri-apps/tao/commit/365089b6b2218108807b6a72ef27851f5fd3cc5d) ([#1341](https://github.com/tauri-apps/tao/pull/1341) by [@Legend-Master](https://github.com/tauri-apps/tao/../../Legend-Master)) On Windows, fix visibility flickers when calling windowing functions
